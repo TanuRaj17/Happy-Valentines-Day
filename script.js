@@ -1,13 +1,13 @@
 const messages = [
     "Are you sure?",
-    "Really sure??",
-    "Ek or baar sochlo?",
-    "Cutie Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "Mera dil tut jayegaa...",
-    "Please haa bol do naaa...",
+    "Really Pallu jiii😕??",
+    "Ek or baar sochlo?☹️",
+    "Cutie Pookie please...😢",
+    "Apne tannu ji ke bare me to socho🥺!",
+    "If you say no, I will be really sad...😫",
+    "I will be very sad...😩",
+    "Mera dil tut jayegaa...💔",
+    "Please haa bol do naaa...😖",
     "Just kidding, maan jao na please! ❤️"
 ];
 
